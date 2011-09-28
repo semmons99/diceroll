@@ -1,0 +1,5 @@
+#! ruby
+
+require "diceroll"
+
+Diceroll::Application.run ARGV[0]

@@ -1,0 +1,5 @@
+require_relative "diceroll/application"
+require_relative "diceroll/game_engine"
+require_relative "diceroll/player"
+require_relative "diceroll/basic_console"
+require_relative "diceroll/pry_console"
