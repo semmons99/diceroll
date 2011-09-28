@@ -12,6 +12,8 @@ To play with this do the following:
 > bundle install --path vendor/ruby
 ```
 
+The rules are simple. You must have 2 or more players. Players take turns rolling 6 dice. They have 3 tosses to get the highest overall score. Each toss they may only keep up to 3 dice. There is no end to the game.
+
 Run using the basic console. Note, when using the basic console and choosing reroll, you supply which dice you would like to keep by index (1 based).
 
 ```shell
